@@ -4,14 +4,14 @@ This is sample powerBI dashboards done as practice for Data Science Essentials C
 
 # Employee - Dashboards
 
-![Logo](Sample Images/image_3.png)
+![Screenshot4](Sample%20Images/image_3.png)
 
-![Logo](Sample Images/image_4.png)
+![Screenshot3](Sample%20Images/image_4.png)
 
 # BMI Overview - Dashboards
 
-![Logo](Sample Images/image_2.png)
+![Screenshot2](Sample%20Images/image_2.png)
 
 # 2020 COVID 19 Statistics - Dashboards
 
-![Logo](Sample Images/image_1.png)
+![Screenshot1](Sample%20Images/image_1.png)
