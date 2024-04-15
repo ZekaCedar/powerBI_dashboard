@@ -1,6 +1,14 @@
-# Sample PowerBI Dashboards
+# PowerBI Dashboards
 
-This is sample powerBI dashboards done as practice for Data Science Essentials Course 2024
+The following are powerBI dashboards done as practice for Data Science Essentials Course 2024
+
+# HelloGree - Employee Attrition Dashboards
+
+![Screenshot5](Sample%20Images/image_5.png)
+
+![Screenshot6](Sample%20Images/image_6.png)
+
+![Screenshot7](Sample%20Images/image_7.png)
 
 # Employee - Dashboards
 
